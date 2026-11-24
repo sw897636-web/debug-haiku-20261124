@@ -1,0 +1,3 @@
+The stack trace points up
+each function blames its mother
+grandma wrote the bug
